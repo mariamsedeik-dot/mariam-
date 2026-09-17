@@ -1,4 +1,4 @@
-import numpy as np 
-def fun (x=15):
-    print (x)
-print("its working")
+import streamlit as st
+
+st.title("HeartGuard AI")
+st.write("its working!")
